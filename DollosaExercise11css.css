@@ -1,0 +1,284 @@
+* {
+    box-sizing: border-box;
+  }
+  
+  #First {
+      max-width: 100%;
+      width: 47%;
+      height: 20%;
+      float: left;
+      margin-right: 10px;
+      margin-left: 30px;
+      background-image: url('DollosaExercise11Images/FirstImage.jpg');
+      background-repeat: no-repeat;
+      background-size: 100%;
+      border-radius: 20px;
+
+     
+  }
+  #Second {
+      max-width: 100%;
+      width: 47%;
+      height: 20%;
+      float: left;
+      background-image: url('DollosaExercise11Images/SecondImage.jpg');
+      background-repeat: no-repeat;
+      background-size: 100%;
+      border-radius: 20px;
+  }
+  #Third {
+      max-width: 100%;
+      width: 94.5%;
+      height: 60%;
+      float: left;
+      margin-top: 20px;
+      margin-left: 30px;
+      background-image: url('DollosaExercise11Images/ThirdImage.jpg');
+      background-repeat: no-repeat;
+      background-size: 100%;
+      border-radius: 20px;
+   
+  }
+  #Fourth {
+      max-width: 100%;
+      width: 31%;
+      height: 40%;
+      float: left;
+      margin-top: 20px;
+      margin-right: 10px;
+      margin-left: 30px;
+      background-image: url('DollosaExercise11Images/FourthImage.jpg');
+      background-repeat: no-repeat;
+      background-size: 100%;
+      border-radius: 20px;
+  }
+  #Fifth {
+      max-width: 100%;
+      width: 31%;
+      height: 40%;
+      float: left;
+      margin-top: 20px;
+      margin-right: 10px;
+      background-image: url('DollosaExercise11Images/FifthImages.jpg');
+      background-repeat: no-repeat;
+      background-size: 100%;
+      border-radius: 20px;
+  }
+  #Sixth {
+      max-width: 100%;
+      width: 31%;
+      height: 40%;
+      float: left;
+      margin-top: 20px;
+      background-image: url('DollosaExercise11Images/SixthImages.jpg');
+      background-repeat: no-repeat;
+      background-size: 100%;
+      border-radius: 20px;
+  }
+  #Seventh {
+      max-width: 100%;
+      width: 23%;
+      height: 30%;
+      float: left;
+      margin-top: 20px;
+      margin-right: 10px;
+      margin-left: 30px;
+      margin-bottom: 20px;
+      background-image: url('DollosaExercise11Images/SeventhImage.jpg');
+      background-repeat: no-repeat;
+      background-size: 100%;
+      border-radius: 20px;
+  }
+  #Eigth {
+      max-width: 100%;
+      width: 23%;
+      height: 30%;
+      float: left;
+      margin-top: 20px;
+      margin-right: 10px;
+      margin-bottom: 20px;
+      background-image: url('DollosaExercise11Images/EigthImage.jpg');
+      background-repeat: no-repeat;
+      background-size: 100%;
+      border-radius: 20px;
+  }
+  #Nineth {
+      max-width: 100%;
+      width: 23%;
+      height: 30%;
+      float: left;
+      margin-top: 20px;
+      margin-right: 10px;
+      margin-bottom: 20px;
+      background-image: url('DollosaExercise11Images/NinethImage.jpg');
+      background-repeat: no-repeat;
+      background-size: 100%;
+      border-radius: 20px;
+  }
+  #Tenth {
+      max-width: 100%;
+      width: 23%;
+      height: 30%;
+      float: left;
+      margin-top: 20px;
+      margin-bottom: 20px;
+      background-image: url('DollosaExercise11Images/TenthImage.jpg');
+      background-repeat: no-repeat;
+      background-size: 100%;
+      border-radius: 20px;
+  }
+  @media only screen and (max-width: 768px) {
+    #First {width: 94%;
+            margin-top: 10px;
+            margin-bottom: 1px;
+            float: left;
+      height: 15%;
+   
+    }
+    #Second {width: 94%;
+        margin-top: 1px;
+        margin-bottom: 20px;
+        margin-left: 30px;
+        float: left;
+        height: 15%;    
+       
+    }
+    #Third {width: 94%;
+        margin-top: 5px;
+        margin-bottom: 20px;
+        float: left; 
+        height: 40%;
+        background-repeat: no-repeat;
+        background-size: 100%;
+        border-radius: 20px;
+        
+    }
+    #Fourth {width: 94%;
+        margin-top: 10px;
+        margin-bottom: 1px;
+        margin-left: 30px;
+        float: left;
+        background-size: cover;
+       height: 15%;
+       
+       
+    }
+    #Fifth {width: 94%;
+        margin-top: 1px;
+        margin-bottom: 1px;
+        float: left;
+        margin-left: 30px;
+        height: 15%;
+    }
+    #Sixth {width: 94%;
+        margin-top: 1px;
+        margin-bottom: 1px;
+        float: left;
+        margin-left: 30px;
+        height: 15%;
+    }
+    #Seventh {width: 46%;
+            float: left;
+            margin-top: 20px;
+            margin-bottom: 1px;
+            margin-right: 10px;
+            height: 20%;
+    }
+    #Eigth {width: 46%;
+        float: left;
+        margin-top: 20px;
+        margin-bottom: 1px;
+        margin-right: 10px; 
+        height: 20%;  
+    }
+    #Nineth {width:46%;
+        float: left;
+        margin-top: 1px;
+        margin-bottom: 20px;
+        margin-left: 30px;
+        height: 20%;
+    }
+    #Tenth {width: 46%;
+        float: left;
+        margin-top: 1px;
+        margin-bottom: 20px;
+        margin-left: 1px;
+        height: 20%;
+    }
+    
+  }
+  @media only screen and (max-width: 320px) {
+    #First {width: 90%;
+            margin-left: 15px;
+            margin-top: 1px;
+            margin-bottom: 1px;
+            margin-right: 15px;
+            float: left;
+      height: 10%;
+    }
+    #Second {width: 90%;
+      margin-left: 15px;
+        margin-top: 1px;
+        margin-bottom: 15px;
+        float: left;
+  height: 10%;
+    }
+    #Third {width: 90%;
+        margin-top: 1px;
+        margin-bottom: 1px;
+        margin-left: 15px;
+        float: left;
+    height: 15%;
+    }
+    #Fourth {width: 90%;
+        margin-top: 15px;
+        margin-bottom: 1px;
+        margin-left: 15px;
+        float: left;
+  height: 30%;
+ 
+    }
+    #Fifth {width: 90%;
+        margin-top: 1px;
+        margin-bottom: 1px;
+        margin-left: 15px;
+        float: left;
+  height: 30%;
+    }
+    #Sixth {width: 90%;
+        margin-top: 1px;
+        margin-bottom: 1px;
+        margin-left: 5%;
+        float: left;
+  height: 30%;
+    }
+    #Seventh {width: 90%;
+        margin-top: 10px;
+        margin-bottom: 1px;
+        float: left;
+        margin-left: 15px;
+  height: 20%;
+    }
+    #Eigth {width: 90%;
+        margin-top: 1px;
+        margin-bottom: 1px;
+        float: left;
+  height: 15%;
+  margin-left: 15px;
+    }
+    #Nineth {width:90%;
+        margin-top: 1px;
+        margin-bottom: 1px;
+        float: left;
+        margin-left: 15px;
+  height: 20%;
+    }
+    #Tenth {width: 90%;
+        margin-top: 1px;
+        margin-bottom: 1px;
+        margin-left: 15px;
+        float: left;
+  height: 20%;
+    }
+    
+  }
